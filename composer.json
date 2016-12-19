@@ -4,7 +4,8 @@
     "require": {
         "anomaly/streams-platform": "1.1.*",
         "anomaly/discounts-module": "latest",
-        "anomaly/products-module": "latest"
+        "anomaly/products-module": "latest",
+        "anomaly/configuration-module": "2.1.*"
     },
     "autoload": {
         "psr-4": {
